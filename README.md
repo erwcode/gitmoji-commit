@@ -17,7 +17,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 | .editorconfig file            | :mouse:                     | `:mouse:`                     |
 | Package.json                  | :package:                   | `:package:`                   |
 | Version                       | :bookmark:                  | `:bookmark:`                  |
-| License                       | :page_facing_up:            | `:page_facing_up:`            |
+| License                       | :balance_scale:             | `:balance_scale:`             |
 | README.md                     | :pencil:                    | `:pencil:`                    |
 | New features                  | :sparkles:                  | `:sparkles:`                  |
 | Improving performance         | :zap:                       | `:zap:`                       |
