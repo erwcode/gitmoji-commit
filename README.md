@@ -34,6 +34,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 | Upgrading dependencies        | :arrow_up:                  | `:arrow_up:`                  |
 | Downgrading dependencies      | :arrow_down:                | `:arrow_down:`                |
 | Remove repository warnings    | :rotating_light:            | `:rotating_light:`            |
+| Code comments                 | :speech_balloon:            | `:speech_balloon:`            |
 
 
 ## 🍱 Atomic Design
@@ -44,7 +45,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 |:------------------------------|:----------------------------|:------------------------------|
 | Atoms                         | :fried_shrimp:              | `:fried_shrimp:`              |
 | Molecules                     | :rice_ball:                 | `:rice_ball:`                 |
-| Organisms                     | :sushi:                     | `:sushi:`                      |
+| Organisms                     | :sushi:                     | `:sushi:`                     |
 | Templates                     | :rice:                      | `:rice:`                      |
 | Pages                         | :bento:                     | `:bento:`                     |
 
