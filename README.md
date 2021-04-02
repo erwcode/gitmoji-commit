@@ -36,6 +36,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 | Remove repository warnings    | :rotating_light:            | `:rotating_light:`            |
 | Code comments                 | :speech_balloon:            | `:speech_balloon:`            |
 | Documentation                 | :books:                     | `:books:`                     |
+| Review requested              | :eyes:                      | `:eyes:`                      |
 
 
 ## 🍱 Atomic Design
