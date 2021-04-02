@@ -21,8 +21,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 | README.md                     | :pencil:                    | `:pencil:`                    |
 | New features                  | :sparkles:                  | `:sparkles:`                  |
 | Improving performance         | :zap:                       | `:zap:`                       |
-| UI or style files             | :lipstick:                  | `:lipstick:`                  |
-| Custom brand project          | :art:                       | `:art:`                       |
+| Custom CSS / UI styles        | :art:                       | `:art:`                       |
 | CI build system               | :construction_worker:       | `:construction_worker:`       |
 | Work in progress              | :construction:              | `:construction:`              |
 | Making architectural changes  | :building_construction:     | `:building_construction:`     |
