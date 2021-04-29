@@ -37,6 +37,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 | Code comments                 | :speech_balloon:            | `:speech_balloon:`            |
 | Documentation                 | :books:                     | `:books:`                     |
 | Review requested              | :eyes:                      | `:eyes:`                      |
+| API                           | :satellite:                 | `:satellite:`                 |
 
 
 ## 🍱 Atomic Design
@@ -54,7 +55,7 @@ Gitmoji Commit is an initiative to standardize the use of emojis on GitHub commi
 
 ### Copyright © ErwCode Technologies. All rights reserved
 
-Made with 💖 by [ErwCode Technologies](https://erwcode.com/).
+Made with 💖 by [ErwCode Technologies](https://erwcode.com/)
 
 
 [mit-license-image]: https://img.shields.io/github/license/erwcode/gitmogi-commit.svg
